@@ -1,12 +1,10 @@
 // StructPointerLab.cpp : This file contains the 'main' function. Program execution begins and ends there.
 /*
-Create a simple structure for a person, including their name and age
+Creates a simple structure for a person, including their name and age
+Allows the user to set the name and age of 2 people
+Creates a pointer called p1 that points to Person 1 and pointer p2 that points to Person 2
 
-Allow the user to set the name and age of 2 people
-
-Create a pointer called p1 that points to Person 1 and pointer p2 that points to Person 2
-
-Allow the user to do the following options using pointers:
+Allows the user to do the following options using pointers:
 Display the info for person 1 and person 2
 Swap the 2 people and display the information
 Set both people to person 1’s information and display
